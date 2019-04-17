@@ -1,7 +1,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>HTML on Slick</title>
-		<link>https://example.org/tags/html/</link>
+		<link>https://jxliao13.github.io/tags/html/</link>
 		<description>Recent content in HTML on Slick</description>
 		<generator>Hugo 0.55.1 -- gohugo.io</generator>
 		<language>en</language>
@@ -9,13 +9,13 @@
 		<webMaster>mail@example.org (Some Author)</webMaster>
 		<copyright>Some Author — All rights reserved.</copyright>
 		<lastBuildDate>Mon, 16 Apr 2018 00:00:00 +0000</lastBuildDate>
-		<atom:link href="https://example.org/tags/html/index.xml" rel="self" type="application/rss+xml" />
+		<atom:link href="https://jxliao13.github.io/tags/html/index.xml" rel="self" type="application/rss+xml" />
 		<item>
 			<title>Basic HTML Elements</title>
-			<link>https://example.org/post/basic-elements/</link>
+			<link>https://jxliao13.github.io/post/basic-elements/</link>
 			<pubDate>Mon, 16 Apr 2018 00:00:00 +0000</pubDate>
 			<author>mail@example.org (Some Author)</author>
-			<guid isPermaLink="true">https://example.org/post/basic-elements/</guid>
+			<guid isPermaLink="true">https://jxliao13.github.io/post/basic-elements/</guid>
 			<description>&lt;p&gt;The main purpose of this article is to make sure that all basic HTML Elements are decorated with CSS so as to not miss any possible elements when creating new themes for Hugo.&lt;/p&gt;
 
 &lt;h2 id=&#34;headings&#34;&gt;Headings&lt;/h2&gt;
