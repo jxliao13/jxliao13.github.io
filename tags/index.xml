@@ -1,17 +1,85 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>Tags on Ljc13</title>
-		<link>https://jxliao13.github.io/tags/</link>
-		<description>Recent content in Tags on Ljc13</description>
+		<title>Tags on Slick</title>
+		<link>https://example.org/tags/</link>
+		<description>Recent content in Tags on Slick</description>
 		<generator>Hugo 0.55.1 -- gohugo.io</generator>
-		<language>zh-tw</language>
-		<lastBuildDate>Sun, 28 Jan 2018 00:09:10 +0800</lastBuildDate>
-		<atom:link href="https://jxliao13.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+		<language>en</language>
+		<managingEditor>mail@example.org (Some Author)</managingEditor>
+		<webMaster>mail@example.org (Some Author)</webMaster>
+		<copyright>Some Author — All rights reserved.</copyright>
+		<lastBuildDate>Mon, 16 Apr 2018 00:00:00 +0000</lastBuildDate>
+		<atom:link href="https://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+		<item>
+			<title>Basic Elements</title>
+			<link>https://example.org/tags/basic-elements/</link>
+			<pubDate>Mon, 16 Apr 2018 00:00:00 +0000</pubDate>
+			<author>mail@example.org (Some Author)</author>
+			<guid isPermaLink="true">https://example.org/tags/basic-elements/</guid>
+			<description></description>
+		</item>
+		<item>
+			<title>CSS</title>
+			<link>https://example.org/tags/css/</link>
+			<pubDate>Mon, 16 Apr 2018 00:00:00 +0000</pubDate>
+			<author>mail@example.org (Some Author)</author>
+			<guid isPermaLink="true">https://example.org/tags/css/</guid>
+			<description></description>
+		</item>
+		<item>
+			<title>HTML</title>
+			<link>https://example.org/tags/html/</link>
+			<pubDate>Mon, 16 Apr 2018 00:00:00 +0000</pubDate>
+			<author>mail@example.org (Some Author)</author>
+			<guid isPermaLink="true">https://example.org/tags/html/</guid>
+			<description></description>
+		</item>
 		<item>
 			<title>Hugo</title>
-			<link>https://jxliao13.github.io/tags/hugo/</link>
+			<link>https://example.org/tags/hugo/</link>
 			<pubDate>Sun, 28 Jan 2018 00:09:10 +0800</pubDate>
-			<guid isPermaLink="true">https://jxliao13.github.io/tags/hugo/</guid>
+			<author>mail@example.org (Some Author)</author>
+			<guid isPermaLink="true">https://example.org/tags/hugo/</guid>
+			<description></description>
+		</item>
+		<item>
+			<title>development</title>
+			<link>https://example.org/tags/development/</link>
+			<pubDate>Wed, 02 Apr 2014 23:42:05 +0100</pubDate>
+			<author>mail@example.org (Some Author)</author>
+			<guid isPermaLink="true">https://example.org/tags/development/</guid>
+			<description></description>
+		</item>
+		<item>
+			<title>go</title>
+			<link>https://example.org/tags/go/</link>
+			<pubDate>Wed, 02 Apr 2014 23:42:05 +0100</pubDate>
+			<author>mail@example.org (Some Author)</author>
+			<guid isPermaLink="true">https://example.org/tags/go/</guid>
+			<description></description>
+		</item>
+		<item>
+			<title>golang</title>
+			<link>https://example.org/tags/golang/</link>
+			<pubDate>Wed, 02 Apr 2014 23:42:05 +0100</pubDate>
+			<author>mail@example.org (Some Author)</author>
+			<guid isPermaLink="true">https://example.org/tags/golang/</guid>
+			<description></description>
+		</item>
+		<item>
+			<title>templates</title>
+			<link>https://example.org/tags/templates/</link>
+			<pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+			<author>mail@example.org (Some Author)</author>
+			<guid isPermaLink="true">https://example.org/tags/templates/</guid>
+			<description></description>
+		</item>
+		<item>
+			<title>themes</title>
+			<link>https://example.org/tags/themes/</link>
+			<pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+			<author>mail@example.org (Some Author)</author>
+			<guid isPermaLink="true">https://example.org/tags/themes/</guid>
 			<description></description>
 		</item>
 	</channel>
