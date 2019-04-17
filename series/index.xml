@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>Series on Slick</title>
+		<title>Series on Ljc13</title>
 		<link>https://jxliao13.github.io/series/</link>
-		<description>Recent content in Series on Slick</description>
+		<description>Recent content in Series on Ljc13</description>
 		<generator>Hugo 0.55.1 -- gohugo.io</generator>
 		<language>en</language>
-		<managingEditor>mail@example.org (Some Author)</managingEditor>
-		<webMaster>mail@example.org (Some Author)</webMaster>
+		<managingEditor>ljcsrr@gmail.com (jxliao)</managingEditor>
+		<webMaster>ljcsrr@gmail.com (jxliao)</webMaster>
 		<copyright>Some Author — All rights reserved.</copyright>
 		<lastBuildDate>Wed, 02 Apr 2014 23:42:05 +0100</lastBuildDate>
 		<atom:link href="https://jxliao13.github.io/series/index.xml" rel="self" type="application/rss+xml" />
@@ -14,7 +14,7 @@
 			<title>lovers</title>
 			<link>https://jxliao13.github.io/series/lovers/</link>
 			<pubDate>Wed, 02 Apr 2014 23:42:05 +0100</pubDate>
-			<author>mail@example.org (Some Author)</author>
+			<author>ljcsrr@gmail.com (jxliao)</author>
 			<guid isPermaLink="true">https://jxliao13.github.io/series/lovers/</guid>
 			<description></description>
 		</item>

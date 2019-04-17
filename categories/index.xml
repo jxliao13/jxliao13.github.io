@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>Categories on Slick</title>
+		<title>Categories on Ljc13</title>
 		<link>https://jxliao13.github.io/categories/</link>
-		<description>Recent content in Categories on Slick</description>
+		<description>Recent content in Categories on Ljc13</description>
 		<generator>Hugo 0.55.1 -- gohugo.io</generator>
 		<language>en</language>
-		<managingEditor>mail@example.org (Some Author)</managingEditor>
-		<webMaster>mail@example.org (Some Author)</webMaster>
+		<managingEditor>ljcsrr@gmail.com (jxliao)</managingEditor>
+		<webMaster>ljcsrr@gmail.com (jxliao)</webMaster>
 		<copyright>Some Author — All rights reserved.</copyright>
 		<lastBuildDate>Mon, 16 Apr 2018 00:00:00 +0000</lastBuildDate>
 		<atom:link href="https://jxliao13.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
@@ -14,7 +14,7 @@
 			<title>Development</title>
 			<link>https://jxliao13.github.io/categories/development/</link>
 			<pubDate>Mon, 16 Apr 2018 00:00:00 +0000</pubDate>
-			<author>mail@example.org (Some Author)</author>
+			<author>ljcsrr@gmail.com (jxliao)</author>
 			<guid isPermaLink="true">https://jxliao13.github.io/categories/development/</guid>
 			<description></description>
 		</item>
@@ -22,7 +22,7 @@
 			<title>golang</title>
 			<link>https://jxliao13.github.io/categories/golang/</link>
 			<pubDate>Wed, 02 Apr 2014 23:42:05 +0100</pubDate>
-			<author>mail@example.org (Some Author)</author>
+			<author>ljcsrr@gmail.com (jxliao)</author>
 			<guid isPermaLink="true">https://jxliao13.github.io/categories/golang/</guid>
 			<description></description>
 		</item>

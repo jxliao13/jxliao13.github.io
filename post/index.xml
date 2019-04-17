@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>Posts on Slick</title>
+		<title>Posts on Ljc13</title>
 		<link>https://jxliao13.github.io/post/</link>
-		<description>Recent content in Posts on Slick</description>
+		<description>Recent content in Posts on Ljc13</description>
 		<generator>Hugo 0.55.1 -- gohugo.io</generator>
 		<language>en</language>
-		<managingEditor>mail@example.org (Some Author)</managingEditor>
-		<webMaster>mail@example.org (Some Author)</webMaster>
+		<managingEditor>ljcsrr@gmail.com (jxliao)</managingEditor>
+		<webMaster>ljcsrr@gmail.com (jxliao)</webMaster>
 		<copyright>Some Author — All rights reserved.</copyright>
 		<lastBuildDate>Tue, 16 Apr 2019 21:41:54 +0800</lastBuildDate>
 		<atom:link href="https://jxliao13.github.io/post/index.xml" rel="self" type="application/rss+xml" />
@@ -14,9 +14,11 @@
 			<title>Hugo首發</title>
 			<link>https://jxliao13.github.io/post/my-first-post/</link>
 			<pubDate>Tue, 16 Apr 2019 21:41:54 +0800</pubDate>
-			<author>mail@example.org (Some Author)</author>
+			<author>ljcsrr@gmail.com (jxliao)</author>
 			<guid isPermaLink="true">https://jxliao13.github.io/post/my-first-post/</guid>
-			<description>&lt;p&gt;####緣起&lt;/p&gt;
+			<description>
+
+&lt;h2 id=&#34;緣起histman&#34;&gt;緣起histman&lt;/h2&gt;
 
 &lt;p&gt;花了一個小時用hugo在windows建立起來，預計要把靜態的網頁掛在github上，正式對外使用。&lt;/p&gt;
 
@@ -34,7 +36,7 @@
 			<title>Basic HTML Elements</title>
 			<link>https://jxliao13.github.io/post/basic-elements/</link>
 			<pubDate>Mon, 16 Apr 2018 00:00:00 +0000</pubDate>
-			<author>mail@example.org (Some Author)</author>
+			<author>ljcsrr@gmail.com (jxliao)</author>
 			<guid isPermaLink="true">https://jxliao13.github.io/post/basic-elements/</guid>
 			<description>&lt;p&gt;The main purpose of this article is to make sure that all basic HTML Elements are decorated with CSS so as to not miss any possible elements when creating new themes for Hugo.&lt;/p&gt;
 
@@ -267,7 +269,7 @@ Also you can &lt;em&gt;put&lt;/em&gt; &lt;strong&gt;Markdown&lt;/strong&gt; into
 			<title>Welcome Hugo Blog</title>
 			<link>https://jxliao13.github.io/post/welcome/</link>
 			<pubDate>Sun, 28 Jan 2018 00:09:10 +0800</pubDate>
-			<author>mail@example.org (Some Author)</author>
+			<author>ljcsrr@gmail.com (jxliao)</author>
 			<guid isPermaLink="true">https://jxliao13.github.io/post/welcome/</guid>
 			<description>&lt;p&gt;歡迎來這&lt;/p&gt;
 </description>
@@ -276,7 +278,7 @@ Also you can &lt;em&gt;put&lt;/em&gt; &lt;strong&gt;Markdown&lt;/strong&gt; into
 			<title>Creating a New Theme</title>
 			<link>https://jxliao13.github.io/post/creating-a-new-theme/</link>
 			<pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
-			<author>mail@example.org (Some Author)</author>
+			<author>ljcsrr@gmail.com (jxliao)</author>
 			<guid isPermaLink="true">https://jxliao13.github.io/post/creating-a-new-theme/</guid>
 			<description>
 
@@ -1229,7 +1231,7 @@ $ vi themes/zafta/layouts/_default/single.html
 			<title>Getting Started with Hugo</title>
 			<link>https://jxliao13.github.io/post/hugoisforlovers/</link>
 			<pubDate>Wed, 02 Apr 2014 23:42:05 +0100</pubDate>
-			<author>mail@example.org (Some Author)</author>
+			<author>ljcsrr@gmail.com (jxliao)</author>
 			<guid isPermaLink="true">https://jxliao13.github.io/post/hugoisforlovers/</guid>
 			<description>
 
@@ -1306,7 +1308,7 @@ Having nearly instant feedback enables you to have your creativity flow without 
 			<title>(Hu)go Template Primer</title>
 			<link>https://jxliao13.github.io/post/goisforlovers/</link>
 			<pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-			<author>mail@example.org (Some Author)</author>
+			<author>ljcsrr@gmail.com (jxliao)</author>
 			<guid isPermaLink="true">https://jxliao13.github.io/post/goisforlovers/</guid>
 			<description>&lt;p&gt;Hugo uses the excellent &lt;a href=&#34;https://golang.org/&#34;&gt;Go&lt;/a&gt; &lt;a href=&#34;https://golang.org/pkg/html/template/&#34;&gt;html/template&lt;/a&gt; library for
 its template engine. It is an extremely lightweight engine that provides a very
@@ -1565,7 +1567,7 @@ so, such as in this example:&lt;/p&gt;
 			<title>Migrate to Hugo from Jekyll</title>
 			<link>https://jxliao13.github.io/post/migrate-from-jekyll/</link>
 			<pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
-			<author>mail@example.org (Some Author)</author>
+			<author>ljcsrr@gmail.com (jxliao)</author>
 			<guid isPermaLink="true">https://jxliao13.github.io/post/migrate-from-jekyll/</guid>
 			<description>
 

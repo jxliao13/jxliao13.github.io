@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>Tags on Slick</title>
+		<title>Tags on Ljc13</title>
 		<link>https://jxliao13.github.io/tags/</link>
-		<description>Recent content in Tags on Slick</description>
+		<description>Recent content in Tags on Ljc13</description>
 		<generator>Hugo 0.55.1 -- gohugo.io</generator>
 		<language>en</language>
-		<managingEditor>mail@example.org (Some Author)</managingEditor>
-		<webMaster>mail@example.org (Some Author)</webMaster>
+		<managingEditor>ljcsrr@gmail.com (jxliao)</managingEditor>
+		<webMaster>ljcsrr@gmail.com (jxliao)</webMaster>
 		<copyright>Some Author — All rights reserved.</copyright>
 		<lastBuildDate>Mon, 16 Apr 2018 00:00:00 +0000</lastBuildDate>
 		<atom:link href="https://jxliao13.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
@@ -14,7 +14,7 @@
 			<title>Basic Elements</title>
 			<link>https://jxliao13.github.io/tags/basic-elements/</link>
 			<pubDate>Mon, 16 Apr 2018 00:00:00 +0000</pubDate>
-			<author>mail@example.org (Some Author)</author>
+			<author>ljcsrr@gmail.com (jxliao)</author>
 			<guid isPermaLink="true">https://jxliao13.github.io/tags/basic-elements/</guid>
 			<description></description>
 		</item>
@@ -22,7 +22,7 @@
 			<title>CSS</title>
 			<link>https://jxliao13.github.io/tags/css/</link>
 			<pubDate>Mon, 16 Apr 2018 00:00:00 +0000</pubDate>
-			<author>mail@example.org (Some Author)</author>
+			<author>ljcsrr@gmail.com (jxliao)</author>
 			<guid isPermaLink="true">https://jxliao13.github.io/tags/css/</guid>
 			<description></description>
 		</item>
@@ -30,7 +30,7 @@
 			<title>HTML</title>
 			<link>https://jxliao13.github.io/tags/html/</link>
 			<pubDate>Mon, 16 Apr 2018 00:00:00 +0000</pubDate>
-			<author>mail@example.org (Some Author)</author>
+			<author>ljcsrr@gmail.com (jxliao)</author>
 			<guid isPermaLink="true">https://jxliao13.github.io/tags/html/</guid>
 			<description></description>
 		</item>
@@ -38,7 +38,7 @@
 			<title>Hugo</title>
 			<link>https://jxliao13.github.io/tags/hugo/</link>
 			<pubDate>Sun, 28 Jan 2018 00:09:10 +0800</pubDate>
-			<author>mail@example.org (Some Author)</author>
+			<author>ljcsrr@gmail.com (jxliao)</author>
 			<guid isPermaLink="true">https://jxliao13.github.io/tags/hugo/</guid>
 			<description></description>
 		</item>
@@ -46,7 +46,7 @@
 			<title>development</title>
 			<link>https://jxliao13.github.io/tags/development/</link>
 			<pubDate>Wed, 02 Apr 2014 23:42:05 +0100</pubDate>
-			<author>mail@example.org (Some Author)</author>
+			<author>ljcsrr@gmail.com (jxliao)</author>
 			<guid isPermaLink="true">https://jxliao13.github.io/tags/development/</guid>
 			<description></description>
 		</item>
@@ -54,7 +54,7 @@
 			<title>go</title>
 			<link>https://jxliao13.github.io/tags/go/</link>
 			<pubDate>Wed, 02 Apr 2014 23:42:05 +0100</pubDate>
-			<author>mail@example.org (Some Author)</author>
+			<author>ljcsrr@gmail.com (jxliao)</author>
 			<guid isPermaLink="true">https://jxliao13.github.io/tags/go/</guid>
 			<description></description>
 		</item>
@@ -62,7 +62,7 @@
 			<title>golang</title>
 			<link>https://jxliao13.github.io/tags/golang/</link>
 			<pubDate>Wed, 02 Apr 2014 23:42:05 +0100</pubDate>
-			<author>mail@example.org (Some Author)</author>
+			<author>ljcsrr@gmail.com (jxliao)</author>
 			<guid isPermaLink="true">https://jxliao13.github.io/tags/golang/</guid>
 			<description></description>
 		</item>
@@ -70,7 +70,7 @@
 			<title>templates</title>
 			<link>https://jxliao13.github.io/tags/templates/</link>
 			<pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-			<author>mail@example.org (Some Author)</author>
+			<author>ljcsrr@gmail.com (jxliao)</author>
 			<guid isPermaLink="true">https://jxliao13.github.io/tags/templates/</guid>
 			<description></description>
 		</item>
@@ -78,7 +78,7 @@
 			<title>themes</title>
 			<link>https://jxliao13.github.io/tags/themes/</link>
 			<pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-			<author>mail@example.org (Some Author)</author>
+			<author>ljcsrr@gmail.com (jxliao)</author>
 			<guid isPermaLink="true">https://jxliao13.github.io/tags/themes/</guid>
 			<description></description>
 		</item>

@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>golang on Slick</title>
+		<title>golang on Ljc13</title>
 		<link>https://jxliao13.github.io/tags/golang/</link>
-		<description>Recent content in golang on Slick</description>
+		<description>Recent content in golang on Ljc13</description>
 		<generator>Hugo 0.55.1 -- gohugo.io</generator>
 		<language>en</language>
-		<managingEditor>mail@example.org (Some Author)</managingEditor>
-		<webMaster>mail@example.org (Some Author)</webMaster>
+		<managingEditor>ljcsrr@gmail.com (jxliao)</managingEditor>
+		<webMaster>ljcsrr@gmail.com (jxliao)</webMaster>
 		<copyright>Some Author — All rights reserved.</copyright>
 		<lastBuildDate>Wed, 02 Apr 2014 23:42:05 +0100</lastBuildDate>
 		<atom:link href="https://jxliao13.github.io/tags/golang/index.xml" rel="self" type="application/rss+xml" />
@@ -14,7 +14,7 @@
 			<title>Getting Started with Hugo</title>
 			<link>https://jxliao13.github.io/post/hugoisforlovers/</link>
 			<pubDate>Wed, 02 Apr 2014 23:42:05 +0100</pubDate>
-			<author>mail@example.org (Some Author)</author>
+			<author>ljcsrr@gmail.com (jxliao)</author>
 			<guid isPermaLink="true">https://jxliao13.github.io/post/hugoisforlovers/</guid>
 			<description>
 
@@ -91,7 +91,7 @@ Having nearly instant feedback enables you to have your creativity flow without 
 			<title>(Hu)go Template Primer</title>
 			<link>https://jxliao13.github.io/post/goisforlovers/</link>
 			<pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-			<author>mail@example.org (Some Author)</author>
+			<author>ljcsrr@gmail.com (jxliao)</author>
 			<guid isPermaLink="true">https://jxliao13.github.io/post/goisforlovers/</guid>
 			<description>&lt;p&gt;Hugo uses the excellent &lt;a href=&#34;https://golang.org/&#34;&gt;Go&lt;/a&gt; &lt;a href=&#34;https://golang.org/pkg/html/template/&#34;&gt;html/template&lt;/a&gt; library for
 its template engine. It is an extremely lightweight engine that provides a very

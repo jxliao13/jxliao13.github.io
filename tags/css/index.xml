@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>CSS on Slick</title>
+		<title>CSS on Ljc13</title>
 		<link>https://jxliao13.github.io/tags/css/</link>
-		<description>Recent content in CSS on Slick</description>
+		<description>Recent content in CSS on Ljc13</description>
 		<generator>Hugo 0.55.1 -- gohugo.io</generator>
 		<language>en</language>
-		<managingEditor>mail@example.org (Some Author)</managingEditor>
-		<webMaster>mail@example.org (Some Author)</webMaster>
+		<managingEditor>ljcsrr@gmail.com (jxliao)</managingEditor>
+		<webMaster>ljcsrr@gmail.com (jxliao)</webMaster>
 		<copyright>Some Author — All rights reserved.</copyright>
 		<lastBuildDate>Mon, 16 Apr 2018 00:00:00 +0000</lastBuildDate>
 		<atom:link href="https://jxliao13.github.io/tags/css/index.xml" rel="self" type="application/rss+xml" />
@@ -14,7 +14,7 @@
 			<title>Basic HTML Elements</title>
 			<link>https://jxliao13.github.io/post/basic-elements/</link>
 			<pubDate>Mon, 16 Apr 2018 00:00:00 +0000</pubDate>
-			<author>mail@example.org (Some Author)</author>
+			<author>ljcsrr@gmail.com (jxliao)</author>
 			<guid isPermaLink="true">https://jxliao13.github.io/post/basic-elements/</guid>
 			<description>&lt;p&gt;The main purpose of this article is to make sure that all basic HTML Elements are decorated with CSS so as to not miss any possible elements when creating new themes for Hugo.&lt;/p&gt;
 
