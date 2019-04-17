@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My New Hugo Site</title>
+    <link>http://example.org/post/</link>
+    <description>Recent content in Posts on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 16 Apr 2019 21:41:54 +0800</lastBuildDate>
+    
+	<atom:link href="http://example.org/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hugo首發</title>
+      <link>http://example.org/post/my-first-post/</link>
+      <pubDate>Tue, 16 Apr 2019 21:41:54 +0800</pubDate>
+      
+      <guid>http://example.org/post/my-first-post/</guid>
+      <description>花了一個小時用hugo在windows建立起來，預計要把靜態的網頁掛在github上，正式對外使用。 未來可能在工作、念書之餘抽空會花一點時間記錄目前手邊的工作項目、生活紀錄之類的事情， 算是對於轉換跑道的一個里程碑，也是睽違十年來再度寫起blog的一個紀念吧!
+第一次採用Markdown的方式寫作，大部分的語法我都還不熟悉，不過慢慢都會變熟的。 之前觀望了好幾天，一直沒有確定到底要用既有的blog網站、wordpress架站， 一方面希望能保有永久自主的擴充性，一方面也不想要被不必要的廣告干擾。
+從Drango、Py&amp;hellip;(忘了名字)、甚至node.js開發的hexo、直到最後看到聽說發佈速度相當快，用GO語言寫成的Hugo 讓我下定決心先嘗試看看吧，畢竟一個長久的習慣養成應該是要從簡單不具太高門檻的方式進行。
+總之話不多說，讓我們繼續看下去。
+Liao</description>
+    </item>
+    
+    <item>
+      <title>建置Hugo Blog</title>
+      <link>http://example.org/post/welcome/</link>
+      <pubDate>Sun, 28 Jan 2018 00:09:10 +0800</pubDate>
+      
+      <guid>http://example.org/post/welcome/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
