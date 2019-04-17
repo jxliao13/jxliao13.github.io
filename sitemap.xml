@@ -3,46 +3,51 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/about/</loc>
+    <loc>https://jxliao13.github.io/category/</loc>
     <lastmod>2019-04-17T14:41:27+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://jxliao13.github.io/about/</loc>
+    <lastmod>2019-04-17T14:41:27+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jxliao13.github.io/</loc>
     <lastmod>2019-04-17T14:41:27+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/post/my-first-post/</loc>
+    <loc>https://jxliao13.github.io/post/my-first-post/</loc>
     <lastmod>2019-04-16T21:41:54+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/post/</loc>
+    <loc>https://jxliao13.github.io/post/</loc>
     <lastmod>2019-04-16T21:41:54+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/hugo/</loc>
+    <loc>https://jxliao13.github.io/tags/hugo/</loc>
     <lastmod>2018-01-28T00:09:10+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://jxliao13.github.io/tags/</loc>
     <lastmod>2018-01-28T00:09:10+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/post/welcome/</loc>
+    <loc>https://jxliao13.github.io/post/welcome/</loc>
     <lastmod>2018-01-28T00:09:10+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://jxliao13.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   

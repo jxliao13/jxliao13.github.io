@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hugo on My New Hugo Site</title>
-    <link>http://example.org/tags/hugo/</link>
-    <description>Recent content in Hugo on My New Hugo Site</description>
+    <title>Hugo on Ljc13</title>
+    <link>https://jxliao13.github.io/tags/hugo/</link>
+    <description>Recent content in Hugo on Ljc13</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 28 Jan 2018 00:09:10 +0800</lastBuildDate>
     
-	<atom:link href="http://example.org/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jxliao13.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>建置Hugo Blog</title>
-      <link>http://example.org/post/welcome/</link>
+      <title>Welcome Hugo Blog</title>
+      <link>https://jxliao13.github.io/post/welcome/</link>
       <pubDate>Sun, 28 Jan 2018 00:09:10 +0800</pubDate>
       
-      <guid>http://example.org/post/welcome/</guid>
-      <description></description>
+      <guid>https://jxliao13.github.io/post/welcome/</guid>
+      <description>歡迎來這</description>
     </item>
     
   </channel>
