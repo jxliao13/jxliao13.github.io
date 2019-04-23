@@ -1,30 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-	<channel>
-		<title>Categories on Ljc13</title>
-		<link>https://jxliao13.github.io/categories/</link>
-		<description>Recent content in Categories on Ljc13</description>
-		<generator>Hugo 0.55.1 -- gohugo.io</generator>
-		<language>en</language>
-		<managingEditor>ljcsrr@gmail.com (jxliao)</managingEditor>
-		<webMaster>ljcsrr@gmail.com (jxliao)</webMaster>
-		<copyright>Some Author — All rights reserved.</copyright>
-		<lastBuildDate>Mon, 16 Apr 2018 00:00:00 +0000</lastBuildDate>
-		<atom:link href="https://jxliao13.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
-		<item>
-			<title>Development</title>
-			<link>https://jxliao13.github.io/categories/development/</link>
-			<pubDate>Mon, 16 Apr 2018 00:00:00 +0000</pubDate>
-			<author>ljcsrr@gmail.com (jxliao)</author>
-			<guid isPermaLink="true">https://jxliao13.github.io/categories/development/</guid>
-			<description></description>
-		</item>
-		<item>
-			<title>golang</title>
-			<link>https://jxliao13.github.io/categories/golang/</link>
-			<pubDate>Wed, 02 Apr 2014 23:42:05 +0100</pubDate>
-			<author>ljcsrr@gmail.com (jxliao)</author>
-			<guid isPermaLink="true">https://jxliao13.github.io/categories/golang/</guid>
-			<description></description>
-		</item>
-	</channel>
+  <channel>
+    <title>Categories on Ljc13</title>
+    <link>https://jxliao13.github.io/categories/</link>
+    <description>Recent content in Categories on Ljc13</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 29 Jul 2018 09:00:00 +0600</lastBuildDate>
+    
+	<atom:link href="https://jxliao13.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>features</title>
+      <link>https://jxliao13.github.io/categories/features/</link>
+      <pubDate>Sun, 29 Jul 2018 09:00:00 +0600</pubDate>
+      
+      <guid>https://jxliao13.github.io/categories/features/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>others</title>
+      <link>https://jxliao13.github.io/categories/others/</link>
+      <pubDate>Mon, 25 Sep 2017 08:00:00 +0600</pubDate>
+      
+      <guid>https://jxliao13.github.io/categories/others/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tutorial</title>
+      <link>https://jxliao13.github.io/categories/tutorial/</link>
+      <pubDate>Mon, 25 Sep 2017 06:00:00 +0600</pubDate>
+      
+      <guid>https://jxliao13.github.io/categories/tutorial/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
 </rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on Ljc13</title>
+    <link>https://jxliao13.github.io/authors/</link>
+    <description>Recent content in Authors on Ljc13</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 29 Jul 2018 09:00:00 +0600</lastBuildDate>
+    
+	<atom:link href="https://jxliao13.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>achary</title>
+      <link>https://jxliao13.github.io/authors/achary/</link>
+      <pubDate>Sun, 29 Jul 2018 09:00:00 +0600</pubDate>
+      
+      <guid>https://jxliao13.github.io/authors/achary/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>muniftanjim</title>
+      <link>https://jxliao13.github.io/authors/muniftanjim/</link>
+      <pubDate>Fri, 06 Jul 2018 01:00:00 +0600</pubDate>
+      
+      <guid>https://jxliao13.github.io/authors/muniftanjim/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
